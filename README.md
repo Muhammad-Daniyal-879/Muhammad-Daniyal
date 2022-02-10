@@ -1,9 +1,10 @@
 # Muhammad-Daniyal
 Hello, I'm Muhammad Daniyal 👋
 
-🔭 I’m doing bachelors of Electrical Engineering from Usman Institute of Technology.
-🌱 I’m currently learning Coding.
+ I’m doing bachelors of Electrical Engineering from Usman Institute of Technology.
 
-📫 How to reach me: daniyaliqbal879@gmail.com
+ I’m currently learning Coding.
 
-⚡ Fun fact: Smart work is better than hardwork.
+ How to reach me: daniyaliqbal879@gmail.com
+
+ Fun fact: Smart work is better than hardwork.
